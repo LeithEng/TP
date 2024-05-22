@@ -1,0 +1,6 @@
+101:Durand:Jean:12.5:15.0
+102:Dupont:Marie:14.0:16.5
+103:Martin:Pierre:10.0:13.0
+104:Lefevre:Alice:11.5:14.0
+105:Bernard:Paul:16.0:18.0
+100:Engazzou:Leith:15.0:17.0
